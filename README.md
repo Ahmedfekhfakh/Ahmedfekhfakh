@@ -54,7 +54,7 @@ I build **end-to-end AI systems** — from RAG pipelines and LLM APIs to full ML
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 📊 [GamePulse](https://github.com/Ahmedfekhfakh/stock-game-correlation) — Big Data Analytics Pipeline
 > Game popularity × stock price correlation · Télécom Paris, 2026  
@@ -64,7 +64,7 @@ Fully containerized 8-service Data Lake pipeline ingesting **Steam, Twitch & Yah
 
 ---
 
-### 🏗️ [MapReduce Distributed System](https://github.com/Ahmedfekhfakh/Mapreduce-distributed-system) — Amdahl's Law Validation
+###  [MapReduce Distributed System](https://github.com/Ahmedfekhfakh/Mapreduce-distributed-system) — Amdahl's Law Validation
 > Custom MapReduce from scratch · 1.3 TB CommonCrawl · Télécom Paris, 2025  
 > `Python` · `TCP Sockets` · `Linux VMs` · `Distributed Computing`
 
@@ -72,7 +72,7 @@ Built a Master-Worker MapReduce engine from scratch (no Hadoop) deployed across 
 
 ---
 
-### 🔐 [FraudGuard](https://github.com/Ahmedfekhfakh/Fraudguard) — MLOps Fraud Detection Pipeline
+###  [FraudGuard](https://github.com/Ahmedfekhfakh/Fraudguard) — MLOps Fraud Detection Pipeline
 > Production MLOps stack · Télécom Paris DATA713, 2025  
 > `LightGBM` · `Isolation Forest` · `FastAPI` · `MLflow` · `Airflow` · `Docker` · `Kubernetes`
 
@@ -80,13 +80,13 @@ End-to-end MLOps pipeline for real-time credit card fraud detection with automat
 
 ---
 
-### ⏱️ [Chronos](https://github.com/Ahmedfekhfakh/Chronos) — Time Series Analysis App
+###  [Chronos](https://github.com/Ahmedfekhfakh/Chronos) — Time Series Analysis App
 > Interactive Streamlit app for time series exploration and forecasting  
 > `Python` · `Streamlit` · `statsmodels` · `Prophet`
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
