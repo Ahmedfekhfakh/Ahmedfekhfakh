@@ -14,10 +14,10 @@
 ```python
 ahmed = {
     "role"       : "AI Engineer · MSc Candidate @ Télécom Paris (IP Paris)",
-    "location"   : "📍 Paris, France",
+    "location"   : " Paris, France",
     "languages"  : ["French 🇫🇷", "English 🇬🇧 (TOEIC 920/990)", "Arabic 🇹🇳"],
     "seeking"    : "6-month internship · Data Science / AI · From July 2026",
-    "highlight"  : "🏆 1st Prize — IndabaX 2022 Hackathon (InstaDeep)",
+    "highlight"  : " 1st Prize — IndabaX 2022 Hackathon (InstaDeep)",
 }
 ```
 
@@ -25,7 +25,7 @@ I build **end-to-end AI systems** — from RAG pipelines and LLM APIs to full ML
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **AI & ML**
 
@@ -56,7 +56,7 @@ I build **end-to-end AI systems** — from RAG pipelines and LLM APIs to full ML
 
 ##  Featured Projects
 
-### 📊 [GamePulse](https://github.com/Ahmedfekhfakh/stock-game-correlation) — Big Data Analytics Pipeline
+###  [GamePulse](https://github.com/Ahmedfekhfakh/stock-game-correlation) — Big Data Analytics Pipeline
 > Game popularity × stock price correlation · Télécom Paris, 2026  
 > `PySpark` · `XGBoost` · `Airflow` · `Elasticsearch` · `Kibana` · `LocalStack S3` · `Docker`
 
