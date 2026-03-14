@@ -65,7 +65,7 @@ Fully containerized 8-service Data Lake pipeline ingesting **Steam, Twitch & Yah
 ---
 
 ### 🏗️ [MapReduce Distributed System](https://github.com/Ahmedfekhfakh/Mapreduce-distributed-system) — Amdahl's Law Validation
-> Custom MapReduce from scratch · 1.3 TB CommonCrawl · Télécom Paris, 2024  
+> Custom MapReduce from scratch · 1.3 TB CommonCrawl · Télécom Paris, 2025  
 > `Python` · `TCP Sockets` · `Linux VMs` · `Distributed Computing`
 
 Built a Master-Worker MapReduce engine from scratch (no Hadoop) deployed across 3 Linux VMs via SSH. Experimentally validated Amdahl's Law: measured **21% serial fraction**, achieving **2.31× speedup** (77% efficiency) with 3 workers. Identified SHUFFLE as the primary bottleneck — scaling to only 1.94× — and proved shuffle time depends on **key cardinality, not data volume**.
