@@ -14,7 +14,6 @@
 ```python
 ahmed = {
     "role"       : "AI Engineer · MSc Candidate @ Télécom Paris (IP Paris)",
-    "experience" : "2+ years building production LLM & MLOps systems",
     "location"   : "📍 Paris, France",
     "languages"  : ["French 🇫🇷", "English 🇬🇧 (TOEIC 920/990)", "Arabic 🇹🇳"],
     "seeking"    : "6-month internship · Data Science / AI · From July 2026",
